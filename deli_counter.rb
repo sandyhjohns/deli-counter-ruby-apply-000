@@ -1,5 +1,5 @@
 # Write your code here.
-
+katz_deli = ["Sandy","Karen","Jeff"]
 
 def line(current_line)
   counter = 1
